@@ -1,3 +1,4 @@
+@checkout
 Feature: Proceso de compra
  
 @happypath @compra

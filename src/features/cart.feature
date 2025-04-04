@@ -1,3 +1,4 @@
+@carrito
 Feature: Carrito de compras
  
 @happypath @carrito_agregar
