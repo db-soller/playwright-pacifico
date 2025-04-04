@@ -34,13 +34,11 @@ Given("el usuario ha agregado productos al carrito desde la página de productos
     loginPage = new LoginPage(global.page);
     productsPage = new ProductsPage(global.page);
 
-    // Inicia sesión
     await loginPage.navigateToLoginPage();
     await loginPage.enterUsername("standard_user");
     await loginPage.enterPassword("secret_sauce");
     await loginPage.clickLoginButton();
 
-    // Agrega un producto al carrito
     await productsPage.addProductToCart("Sauce Labs Backpack");
 });
 
