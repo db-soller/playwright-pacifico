@@ -203,3 +203,6 @@ Los resultados de las pruebas se generan en formato **HTML** y **JSON** en la ca
 
 ## Contacto
 Si tienes preguntas o necesitas soporte, no dudes en contactarme.
+mail: dbalbuen@emeal.nttdata.com
+
+---
